@@ -102,3 +102,5 @@ var collision = {
         return Math.sqrt(x * x + y * y);
     }
 };
+
+module.exports = collision;
